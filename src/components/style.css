@@ -1,0 +1,43 @@
+.logo {
+  color: #023047;
+}
+.trial-btn {
+  background-color: #023047;
+}
+
+.custom-btn {
+  font-size: 14px;
+  width: 150px;
+  height: 40px;
+  border-radius: 3px;
+  color: white;
+}
+
+.login-btn {
+  background-color: #fb8500;
+}
+
+.login-img {
+  background-color: #023047;
+  min-height: 90vh;
+}
+.login-img img {
+  min-height: 90vh;
+  width: 100%;
+}
+
+.input-custom {
+  padding: 15px 20px;
+  display: block;
+  width: 100%;
+}
+
+.form-check-input:checked {
+  background-color: #023047;
+  border-color: #023047;
+}
+
+.forget-password:hover {
+  cursor: pointer;
+  color: rgba(255, 25, 0, 0.755);
+}
