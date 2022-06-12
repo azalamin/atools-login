@@ -42,6 +42,11 @@
   color: rgba(255, 25, 0, 0.755);
 }
 
+.container-main {
+  max-width: 1900px;
+  margin: 0 auto;
+}
+
 /* Responsive For Small Devices */
 @media (max-width: 767px) {
   .login-form {
